@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\sypexgeoip;
+namespace kwazaro\sypexgeoip;
 
 class Geoip
 {
