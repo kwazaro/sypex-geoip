@@ -1,0 +1,30 @@
+{
+    "name": "kwazaro/sypex-geoip",
+    "description": "Sypex geoip library.",
+    "type": "library",
+    "keywords": ["sypex","geo","geoip","geocity","ip","location"],
+    "homepage": "https://github.com/kwazaro/sypex-geoip",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "zapimir",
+            "email": "zapimir@zapimir.net"
+        },
+        {
+            "name": "BINOVATOR",
+            "email": "info@sypex.net"
+        },
+        {
+            "name": "Oleg Malynovskyi",
+            "email": "kwazaro@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "kwazaro\\sypexgeoip\\": ""
+        }
+    }
+}

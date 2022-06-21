@@ -1,2 +1,2 @@
 # sypex-geoip
-Sypex GEO IP PHP library with database
+Sypex GEO IP PHP library
