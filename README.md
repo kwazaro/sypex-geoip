@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist kwazaro/sypex-geoip "*"
+php composer.phar require --prefer-dist kwazaro/sypex-geoip "@dev"
 ```
 
 or add
 
 ```
-"kwazaro/sypex-geoip": "*"
+"kwazaro/sypex-geoip": "@dev"
 ```
 
 to the require section of your `composer.json` file.
